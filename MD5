@@ -1,0 +1,9 @@
+71cf82ac3c896b3de222bccc5123cc12 *DESCRIPTION
+a904290ee57e5bb63d56e49eb120ea0e *NAMESPACE
+775370ec2d5c667cc73e2cf137cdc0ca *R/package-doc.R
+9b196bb307be6a22b622ec58abf8ff1f *R/plot_lux.R
+b64616301c9fe9ef2ce3604594ee9192 *R/predict_lux.R
+73fdc7b60f2e15575ba006fb454cb1af *README.md
+968d3fe5124338c59810d9207e52432e *man/MoonShineR-package.Rd
+f3e478c506eebcb0b32b7024b76c27db *man/plot_lux.Rd
+0f2a9fc1f29ca5893379a306f2186c9f *man/predict_lux.Rd
