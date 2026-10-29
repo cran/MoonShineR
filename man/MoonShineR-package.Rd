@@ -8,8 +8,22 @@
 \description{
 Predict and plot light levels (ground illuminance) from moonlight, sunlight, and twilight.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://lokpoon.github.io/MoonShine_manual/overview.html}
+  \item \url{https://github.com/Crampton-Lab/MoonShine}
+}
+
+}
 \author{
 \strong{Maintainer}: Lok Poon \email{poonchiulok@gmail.com} (\href{https://orcid.org/0000-0003-3547-1614}{ORCID})
+
+Authors:
+\itemize{
+  \item Ian T. Jenks
+  \item William G. R. Crampton (\href{https://orcid.org/0000-0003-2892-8065}{ORCID})
+}
 
 }
 \keyword{internal}
